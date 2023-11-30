@@ -1,2 +1,0 @@
-vamos a crear un nuevo archivo txt para practicar lo aprendido con Git
-esta segunda línea es para que se quede todo
